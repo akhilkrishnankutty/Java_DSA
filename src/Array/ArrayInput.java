@@ -1,3 +1,4 @@
+//Input data into
 package Array;
 
 import java.util.Scanner;
