@@ -19,6 +19,7 @@ public class ArrayInput {
 //            System.out.println(a[j]);
             System.out.print(a[j]+" ");
         }
+        sc.close();
 
     }
 
